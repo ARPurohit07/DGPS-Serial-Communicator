@@ -1,0 +1,4 @@
+## DGPS Serial Port Communication
+This project report details the development of a .NET application designed to facilitate communication between two serial ports, focusing on devices like industrial-grade GPS units. The project comprises both a sender and a receiver application, developed using C#. Extensive testing with industrial-grade equipment has confirmed the application's usability and reliability. 
+A significant challenge encountered was ensuring the proper formatting and transmission of data, which was successfully addressed through careful implementation. The report covers the project's objectives, methodologies, system architecture, and implementation details, as well as the testing process and results, and concludes with recommendations for potential future improvements.
+The project achieved its goal of developing a reliable .NET application for serial port communication with industrial-grade GPS devices. 
